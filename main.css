@@ -46,7 +46,7 @@ body {
 }
 .ar-1-1 {
     width: 100%;
-    padding-top: 90%;
+    padding-top: 100%;
     position: relative;
 }
 .ar-1-2 {
@@ -88,7 +88,7 @@ img.fix-ar2 {
     margin-right: 0.2em;
 }
 .icon {
-    height: 3.4em;
+    height: 5em;
     width: 50%;
 }
 .email-obfus {
