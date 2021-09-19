@@ -88,8 +88,8 @@ img.fix-ar2 {
     margin-right: 0.2em;
 }
 .icon {
-    height: 0em;
-    width: 30;
+    height: 4em;
+    width: 40%;
 }
 .email-obfus {
     flex-direction: row-reverse;
